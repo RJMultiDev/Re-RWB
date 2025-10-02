@@ -1,7 +1,4 @@
-//<p align="center">
-//    <img src="https://repository-images.githubusercontent.com/625249285/2ce9fdfe-9ad8-46ec-9442-bfa69f268be1">
-//</p>
-
+<h5 align="center">ReRWB</center>
 
 <h3 align="center">一个手表上的第三方bilibili客户端，但是重制版的魔改版</center>
 
