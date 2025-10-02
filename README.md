@@ -1,4 +1,4 @@
-<h5 align="center">ReRWB</center>
+<h1 align="center">ReRWB</center>
 
 <h3 align="center">一个手表上的第三方bilibili客户端，但是重制版的魔改版</center>
 
